@@ -36,6 +36,6 @@ Additionally, users can adjust the **Test Model size** in the range `0-1`, defin
 -  **Pandas**  
 
 
-![Screeshots of app](/assets/images/saaampl.png)
-![Screeshots of app](/assets/images/saaampl_result_Poly_test_size_.png)
-![Screeshots of app](/assets/images/saaampl_result_RBF_test_size_0.9.png)
+![Screeshots of app](saaampl.png.png)
+![Screeshots of app](saaampl_result_Poly_test_size_0.75.png)
+![Screeshots of app](saaampl_result_RBF_test_size_0.9.png)
