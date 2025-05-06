@@ -37,5 +37,5 @@ Additionally, users can adjust the **Test Model size** in the range `0-1`, defin
 
 
 ![Screeshots of app](saaampl.png)
-![Screeshots of app](saaampl_result_Poly_test_size_0.75.png)
-![Screeshots of app](saaampl_result_RBF_test_size_0.9.png)
+![Screeshots of app](saaampl_result_Poly_test_size_0.75.PNG)
+![Screeshots of app](saaampl_result_RBF_test_size_0.9.PNG)
