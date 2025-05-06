@@ -34,3 +34,8 @@ Additionally, users can adjust the **Test Model size** in the range `0-1`, defin
 - 🐍 **Python**  
 - 🤖 **Scikit-Learn** ([GitHub](https://github.com/scikit-learn/scikit-learn))  
 - 🏛️ **Pandas**  
+
+
+![Screeshots of app](/assets/images/saaampl.png)
+![Screeshots of app](/assets/images/saaampl_result_Poly_test_size_.png)
+![Screeshots of app](/assets/images/saaampl_result_RBF_test_size_0.9.png)
